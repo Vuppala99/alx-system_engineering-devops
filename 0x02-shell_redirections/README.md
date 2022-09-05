@@ -1,1 +1,0 @@
-Shell,Input outpur redirections
