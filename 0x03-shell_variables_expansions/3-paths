@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type d name "PATH=$PATH" | wc -l
+find -type d -name "export path=$PATH" | wc -l
